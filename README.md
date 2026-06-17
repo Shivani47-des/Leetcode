@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivani47-des/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0079-word-search](https://github.com/Shivani47-des/Leetcode/tree/master/0079-word-search) |
 ## Sliding Window
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Shivani47-des/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0046-permutations](https://github.com/Shivani47-des/Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Shivani47-des/Leetcode/tree/master/0048-rotate-image) |
+| [0079-word-search](https://github.com/Shivani47-des/Leetcode/tree/master/0079-word-search) |
 ## Binary Search
 |  |
 | ------- |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Shivani47-des/Leetcode/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/Shivani47-des/Leetcode/tree/master/0079-word-search) |
 ## Design
 |  |
 | ------- |
@@ -57,4 +60,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Shivani47-des/Leetcode/tree/master/0048-rotate-image) |
+| [0079-word-search](https://github.com/Shivani47-des/Leetcode/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Shivani47-des/Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
