@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Shivani47-des/Leetcode/tree/master/0079-word-search) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Shivani47-des/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Linked List
 |  |
 | ------- |
@@ -85,4 +86,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Shivani47-des/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Shivani47-des/Leetcode/tree/master/0206-reverse-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Shivani47-des/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Shivani47-des/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Shivani47-des/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
