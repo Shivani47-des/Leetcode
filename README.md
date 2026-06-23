@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivani47-des/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/Shivani47-des/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Array
 |  |
 | ------- |
@@ -27,12 +28,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Shivani47-des/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Shivani47-des/Leetcode/tree/master/0079-word-search) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivani47-des/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1004-max-consecutive-ones-iii](https://github.com/Shivani47-des/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shivani47-des/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shivani47-des/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivani47-des/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1004-max-consecutive-ones-iii](https://github.com/Shivani47-des/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -137,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Shivani47-des/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Shivani47-des/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Shivani47-des/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
