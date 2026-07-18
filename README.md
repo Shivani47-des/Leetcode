@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Shivani47-des/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Shivani47-des/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Shivani47-des/Leetcode/tree/master/0496-next-greater-element-i) |
+| [2248-intersection-of-multiple-arrays](https://github.com/Shivani47-des/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 ## String
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Shivani47-des/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shivani47-des/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shivani47-des/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2248-intersection-of-multiple-arrays](https://github.com/Shivani47-des/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/Shivani47-des/Leetcode/tree/master/1603-design-parking-system) |
+| [2248-intersection-of-multiple-arrays](https://github.com/Shivani47-des/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 ## Database
 |  |
 | ------- |
@@ -185,4 +188,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Shivani47-des/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [2248-intersection-of-multiple-arrays](https://github.com/Shivani47-des/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 <!---LeetCode Topics End-->
