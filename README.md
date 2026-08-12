@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Shivani47-des/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Shivani47-des/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0746-min-cost-climbing-stairs](https://github.com/Shivani47-des/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0867-transpose-matrix](https://github.com/Shivani47-des/Leetcode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Shivani47-des/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shivani47-des/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1260-shift-2d-grid](https://github.com/Shivani47-des/Leetcode/tree/master/1260-shift-2d-grid) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/Shivani47-des/Leetcode/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Shivani47-des/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1603-design-parking-system](https://github.com/Shivani47-des/Leetcode/tree/master/1603-design-parking-system) |
 ## Counting
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Shivani47-des/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Shivani47-des/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Shivani47-des/Leetcode/tree/master/0079-word-search) |
+| [0867-transpose-matrix](https://github.com/Shivani47-des/Leetcode/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Shivani47-des/Leetcode/tree/master/1260-shift-2d-grid) |
 ## Depth-First Search
 |  |
