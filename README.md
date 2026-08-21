@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivani47-des/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0079-word-search](https://github.com/Shivani47-des/Leetcode/tree/master/0079-word-search) |
 | [0516-longest-palindromic-subsequence](https://github.com/Shivani47-des/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
+| [0796-rotate-string](https://github.com/Shivani47-des/Leetcode/tree/master/0796-rotate-string) |
 | [1002-find-common-characters](https://github.com/Shivani47-des/Leetcode/tree/master/1002-find-common-characters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shivani47-des/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shivani47-des/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -317,4 +318,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Shivani47-des/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Shivani47-des/Leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
