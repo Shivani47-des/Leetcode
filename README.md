@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shivani47-des/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Shivani47-des/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/Shivani47-des/Leetcode/tree/master/3731-find-missing-elements) |
+| [3843-first-element-with-unique-frequency](https://github.com/Shivani47-des/Leetcode/tree/master/3843-first-element-with-unique-frequency) |
 ## String
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Shivani47-des/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Shivani47-des/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Shivani47-des/Leetcode/tree/master/3731-find-missing-elements) |
+| [3843-first-element-with-unique-frequency](https://github.com/Shivani47-des/Leetcode/tree/master/3843-first-element-with-unique-frequency) |
 ## Binary Search
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-design-parking-system](https://github.com/Shivani47-des/Leetcode/tree/master/1603-design-parking-system) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shivani47-des/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Shivani47-des/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
+| [3843-first-element-with-unique-frequency](https://github.com/Shivani47-des/Leetcode/tree/master/3843-first-element-with-unique-frequency) |
 ## Database
 |  |
 | ------- |
