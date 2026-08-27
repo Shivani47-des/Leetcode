@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Shivani47-des/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1002-find-common-characters](https://github.com/Shivani47-des/Leetcode/tree/master/1002-find-common-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shivani47-des/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Shivani47-des/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Shivani47-des/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2540-minimum-common-value](https://github.com/Shivani47-des/Leetcode/tree/master/2540-minimum-common-value) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shivani47-des/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Shivani47-des/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Shivani47-des/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shivani47-des/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Shivani47-des/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Shivani47-des/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2540-minimum-common-value](https://github.com/Shivani47-des/Leetcode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Shivani47-des/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
