@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivani47-des/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0038-count-and-say](https://github.com/Shivani47-des/Leetcode/tree/master/0038-count-and-say) |
 | [0079-word-search](https://github.com/Shivani47-des/Leetcode/tree/master/0079-word-search) |
+| [0392-is-subsequence](https://github.com/Shivani47-des/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Shivani47-des/Leetcode/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/Shivani47-des/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0796-rotate-string](https://github.com/Shivani47-des/Leetcode/tree/master/0796-rotate-string) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Shivani47-des/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Shivani47-des/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Shivani47-des/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/Shivani47-des/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Shivani47-des/Leetcode/tree/master/0443-string-compression) |
 | [0658-find-k-closest-elements](https://github.com/Shivani47-des/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [2540-minimum-common-value](https://github.com/Shivani47-des/Leetcode/tree/master/2540-minimum-common-value) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Shivani47-des/Leetcode/tree/master/0062-unique-paths) |
+| [0392-is-subsequence](https://github.com/Shivani47-des/Leetcode/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/Shivani47-des/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/Shivani47-des/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 ## Number Theory
