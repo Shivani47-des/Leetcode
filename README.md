@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/Shivani47-des/Leetcode/tree/master/0197-rising-temperature) |
 | [0608-tree-node](https://github.com/Shivani47-des/Leetcode/tree/master/0608-tree-node) |
 | [1045-customers-who-bought-all-products](https://github.com/Shivani47-des/Leetcode/tree/master/1045-customers-who-bought-all-products) |
+| [1068-product-sales-analysis-i](https://github.com/Shivani47-des/Leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1251-average-selling-price](https://github.com/Shivani47-des/Leetcode/tree/master/1251-average-selling-price) |
 | [1341-movie-rating](https://github.com/Shivani47-des/Leetcode/tree/master/1341-movie-rating) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Shivani47-des/Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
