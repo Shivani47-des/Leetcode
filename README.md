@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Shivani47-des/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Shivani47-des/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shivani47-des/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Shivani47-des/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Shivani47-des/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Shivani47-des/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2540-minimum-common-value](https://github.com/Shivani47-des/Leetcode/tree/master/2540-minimum-common-value) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shivani47-des/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/Shivani47-des/Leetcode/tree/master/1927-sum-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Shivani47-des/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
