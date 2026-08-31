@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Shivani47-des/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Shivani47-des/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Shivani47-des/Leetcode/tree/master/0328-odd-even-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Shivani47-des/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Shivani47-des/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Shivani47-des/Leetcode/tree/master/0443-string-compression) |
 | [0658-find-k-closest-elements](https://github.com/Shivani47-des/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Shivani47-des/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2540-minimum-common-value](https://github.com/Shivani47-des/Leetcode/tree/master/2540-minimum-common-value) |
 ## Recursion
 |  |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Shivani47-des/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/Shivani47-des/Leetcode/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shivani47-des/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Shivani47-des/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Tree
 |  |
 | ------- |
