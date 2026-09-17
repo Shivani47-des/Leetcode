@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-intersection-of-multiple-arrays](https://github.com/Shivani47-des/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2540-minimum-common-value](https://github.com/Shivani47-des/Leetcode/tree/master/2540-minimum-common-value) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shivani47-des/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Shivani47-des/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Shivani47-des/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/Shivani47-des/Leetcode/tree/master/3731-find-missing-elements) |
 | [3843-first-element-with-unique-frequency](https://github.com/Shivani47-des/Leetcode/tree/master/3843-first-element-with-unique-frequency) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/Shivani47-des/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2942-find-words-containing-character](https://github.com/Shivani47-des/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shivani47-des/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Shivani47-des/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Shivani47-des/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shivani47-des/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Shivani47-des/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Shivani47-des/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1927-sum-game](https://github.com/Shivani47-des/Leetcode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shivani47-des/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Shivani47-des/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shivani47-des/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shivani47-des/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Shivani47-des/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
