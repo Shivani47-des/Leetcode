@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shivani47-des/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shivani47-des/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2012-sum-of-beauty-in-the-array](https://github.com/Shivani47-des/Leetcode/tree/master/2012-sum-of-beauty-in-the-array) |
+| [2070-most-beautiful-item-for-each-query](https://github.com/Shivani47-des/Leetcode/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Shivani47-des/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Shivani47-des/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Shivani47-des/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Shivani47-des/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0875-koko-eating-bananas](https://github.com/Shivani47-des/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shivani47-des/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [2070-most-beautiful-item-for-each-query](https://github.com/Shivani47-des/Leetcode/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Shivani47-des/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2540-minimum-common-value](https://github.com/Shivani47-des/Leetcode/tree/master/2540-minimum-common-value) |
 ## Divide and Conquer
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shivani47-des/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Shivani47-des/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Shivani47-des/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2070-most-beautiful-item-for-each-query](https://github.com/Shivani47-des/Leetcode/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Shivani47-des/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Shivani47-des/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3731-find-missing-elements](https://github.com/Shivani47-des/Leetcode/tree/master/3731-find-missing-elements) |
