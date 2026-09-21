@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Shivani47-des/Leetcode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Shivani47-des/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Shivani47-des/Leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [2706-buy-two-chocolates](https://github.com/Shivani47-des/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [2942-find-words-containing-character](https://github.com/Shivani47-des/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shivani47-des/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Shivani47-des/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2070-most-beautiful-item-for-each-query](https://github.com/Shivani47-des/Leetcode/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Shivani47-des/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Shivani47-des/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2706-buy-two-chocolates](https://github.com/Shivani47-des/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [3731-find-missing-elements](https://github.com/Shivani47-des/Leetcode/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shivani47-des/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/Shivani47-des/Leetcode/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Shivani47-des/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2706-buy-two-chocolates](https://github.com/Shivani47-des/Leetcode/tree/master/2706-buy-two-chocolates) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
