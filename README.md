@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/Shivani47-des/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2833-furthest-point-from-origin](https://github.com/Shivani47-des/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [2942-find-words-containing-character](https://github.com/Shivani47-des/Leetcode/tree/master/2942-find-words-containing-character) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/Shivani47-des/Leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shivani47-des/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/Shivani47-des/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/Shivani47-des/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2706-buy-two-chocolates](https://github.com/Shivani47-des/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [2942-find-words-containing-character](https://github.com/Shivani47-des/Leetcode/tree/master/2942-find-words-containing-character) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/Shivani47-des/Leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shivani47-des/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Shivani47-des/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Shivani47-des/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Shivani47-des/Leetcode/tree/master/0796-rotate-string) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/Shivani47-des/Leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Game Theory
 |  |
 | ------- |
@@ -468,4 +471,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Shivani47-des/Leetcode/tree/master/0204-count-primes) |
+## Trie
+|  |
+| ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/Shivani47-des/Leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/Shivani47-des/Leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/Shivani47-des/Leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
