@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shivani47-des/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Shivani47-des/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Shivani47-des/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/Shivani47-des/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2540-minimum-common-value](https://github.com/Shivani47-des/Leetcode/tree/master/2540-minimum-common-value) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shivani47-des/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Shivani47-des/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/Shivani47-des/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Shivani47-des/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Shivani47-des/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/Shivani47-des/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2540-minimum-common-value](https://github.com/Shivani47-des/Leetcode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Shivani47-des/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Shivani47-des/Leetcode/tree/master/2574-left-and-right-sum-differences) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/Shivani47-des/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Shivani47-des/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Shivani47-des/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/Shivani47-des/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2540-minimum-common-value](https://github.com/Shivani47-des/Leetcode/tree/master/2540-minimum-common-value) |
 ## Recursion
 |  |
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2070-most-beautiful-item-for-each-query](https://github.com/Shivani47-des/Leetcode/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Shivani47-des/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Shivani47-des/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/Shivani47-des/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2706-buy-two-chocolates](https://github.com/Shivani47-des/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [3731-find-missing-elements](https://github.com/Shivani47-des/Leetcode/tree/master/3731-find-missing-elements) |
 ## Greedy
