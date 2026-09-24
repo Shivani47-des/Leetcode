@@ -1,31 +1,23 @@
 class Solution {
 public:
     long long dividePlayers(vector<int>& skill) {
-        int n=skill.size();
-        sort(skill.begin(),skill.end());
-        int sum=skill[0]+skill[n-1];
-        long long products=0;
-        int l=0;
-        int r=n-1;
-        int count=0;
-        while(l<r){
-            if(skill[l]+skill[r]==sum){
-                count++;
-                products+=(skill[l]*skill[r]);
-                l++;
-                r--;
+        int n = skill.size();
+
+        sort(skill.begin(), skill.end());
+
+        int target = skill[0] + skill[n - 1];
+        long long ans = 0;
+
+        for(int i = 0; i < n / 2; i++) {
+            int j = n - 1 - i;
+
+            if(skill[i] + skill[j] != target) {
+                return -1;
             }
-            else if(skill[l]+skill[r]>sum){
-                r--;
-            }
-            else{
-                l++;
-            }
+
+            ans +=  skill[i] * skill[j];
         }
-        if(count==n/2){
-            return products;
-        }
-        return -1;
-        
+
+        return ans;
     }
 };
