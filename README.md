@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shivani47-des/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Shivani47-des/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Shivani47-des/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Shivani47-des/Leetcode/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Shivani47-des/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3663-find-the-least-frequent-digit](https://github.com/Shivani47-des/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3731-find-missing-elements](https://github.com/Shivani47-des/Leetcode/tree/master/3731-find-missing-elements) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shivani47-des/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Shivani47-des/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Shivani47-des/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Shivani47-des/Leetcode/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Shivani47-des/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shivani47-des/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3663-find-the-least-frequent-digit](https://github.com/Shivani47-des/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
