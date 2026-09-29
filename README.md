@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Shivani47-des/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0771-jewels-and-stones](https://github.com/Shivani47-des/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1002-find-common-characters](https://github.com/Shivani47-des/Leetcode/tree/master/1002-find-common-characters) |
+| [1189-maximum-number-of-balloons](https://github.com/Shivani47-des/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/Shivani47-des/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/Shivani47-des/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Shivani47-des/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/Shivani47-des/Leetcode/tree/master/1002-find-common-characters) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Shivani47-des/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shivani47-des/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1189-maximum-number-of-balloons](https://github.com/Shivani47-des/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shivani47-des/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shivani47-des/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shivani47-des/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Shivani47-des/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/Shivani47-des/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [1189-maximum-number-of-balloons](https://github.com/Shivani47-des/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1603-design-parking-system](https://github.com/Shivani47-des/Leetcode/tree/master/1603-design-parking-system) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Shivani47-des/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shivani47-des/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
