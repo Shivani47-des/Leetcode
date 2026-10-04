@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Shivani47-des/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Shivani47-des/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Shivani47-des/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0494-target-sum](https://github.com/Shivani47-des/Leetcode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Shivani47-des/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Shivani47-des/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Shivani47-des/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/Shivani47-des/Leetcode/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/Shivani47-des/Leetcode/tree/master/0079-word-search) |
+| [0494-target-sum](https://github.com/Shivani47-des/Leetcode/tree/master/0494-target-sum) |
 ## Design
 |  |
 | ------- |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Shivani47-des/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Shivani47-des/Leetcode/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/Shivani47-des/Leetcode/tree/master/0392-is-subsequence) |
+| [0494-target-sum](https://github.com/Shivani47-des/Leetcode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Shivani47-des/Leetcode/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/Shivani47-des/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/Shivani47-des/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -552,4 +555,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Shivani47-des/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Shivani47-des/Leetcode/tree/master/0509-fibonacci-number) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Shivani47-des/Leetcode/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Shivani47-des/Leetcode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
